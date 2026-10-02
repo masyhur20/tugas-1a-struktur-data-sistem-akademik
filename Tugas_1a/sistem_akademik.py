@@ -1,4 +1,4 @@
-### SISTEM PELAYANAN SPBU PASTI PAS ###
+### SISTEM AKADEMIK MAHASISWA UNIVERSITAS INDONESIA ###
 
 ### NAMA    : M. MUSTHOFA MASYHUR           DOSEN PENGAMPU  : MUHAMMAD AFFANDES, S.T, M.T.
 ### NIM     : 12550111055                   MATA KULIAH     : STRUKTUR DATA
@@ -17,7 +17,7 @@ data_hash = HashTable()
 
 def main():
     while True:
-        print("\n Sistem Penilaian Akademik Mahasiswa Universitas Indonesia")
+        print("\n Sistem Akademik Mahasiswa Universitas Indonesia")
         print("1. Data Mahasiswa")
         print("2. Sistem Antrean")
         print("3. Pencarian Data Mahasiswa")
